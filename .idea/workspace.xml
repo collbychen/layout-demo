@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8182c87-7849-4b8d-b921-6df78f873dcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../layout_demo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/.idea/layout_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/mm_bar_component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/mm_base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/mm_common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/mm_component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/mm_expand.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/mm_layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/mm_list_component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/mm_nav_component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/mm_theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../layout_demo/test.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../layout_demo" />
+  </component>
+  <component name="ProjectId" id="1tIh9YutnjxL23vAaYBCHgsxhjY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../layout_demo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Vue-projects\demo" />
+      <recent name="F:\Vue-projects\demo\css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8182c87-7849-4b8d-b921-6df78f873dcc" name="Default Changelist" comment="" />
+      <created>1622462359550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622462359550</updated>
+      <workItem from="1622462360759" duration="6784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1622469107427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1622469107427" />
+    <state x="579" y="180" key="SettingsEditor" timestamp="1622465558904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="180" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622465558904" />
+    <state x="484" y="271" key="Vcs.Push.Dialog.v2" timestamp="1622469147975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="484" y="271" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1622469147975" />
+  </component>
+</project>
